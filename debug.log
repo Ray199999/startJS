@@ -1,0 +1,2 @@
+[0127/195500.558:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ray19\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\6d609406-1143-4cc8-bbc6-3d47beebf19a: Системе не удается найти указанный путь. (0x3)
+[0127/200447.699:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
